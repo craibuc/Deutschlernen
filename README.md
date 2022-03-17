@@ -2,4 +2,4 @@
 
 ## Topics
 
-- Declension
+- [Declension](./Declension.md)
