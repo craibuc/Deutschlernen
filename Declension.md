@@ -77,10 +77,10 @@ Genitive <sup>1</sup>|
 
 ## Possessivpronomen (possessive pronouns)
 
-Case|Geschlecht|ich|du|er/es|wir|ihr|sie/sie/Sie
+Case|Geschlecht|ich|du|er/sie/es|wir|ihr|sie/Sie
 ---|---|---|---|---|---|---|---
-|||my|your|his/its|our|your|her/their/formal
-Nominativ|♂/⚲|mein|dein|sein|unser|euer|ihr
+|||my|your|his/hers/its|our|your|their/formal
+Nominativ|♂/⚲|mein|dein|sein/ihr/sein|unser|euer|ihr/Ihr
 ||♀/∞|meine|deine|seine|unsere|eure|ihre
 Akkusativ|♂|meinen|deinen|seinen|unseren|euren|ihren
 ||⚲|mein|dein|sein|unser|euer|ihr
@@ -91,6 +91,14 @@ Dative|♂/⚲|meinem|deinem|seinem|unserem|eurem|ihrem
 Genitive|♂/⚲|meines|deines|seines|unseres|eures|ihres
 ||♀/∞|meiner|deiner|seiner|unserer|eurer|ihrer
 
+### Adjective endings
+Case|♂|♀|⚲|∞
+---|---|---|---|---
+Nominativ|-er|-e|-es|-en
+Akkusativ||||
+Dative||||
+Genitive||||
+
 ### Examples
 
 - `Du` musst `dir` die Zähne putzen.  _You must brush your teeth._
@@ -98,7 +106,7 @@ Genitive|♂/⚲|meines|deines|seines|unseres|eures|ihres
 
 ## Artikel (articles)
 
-## bestimmter (definite) _the_
+## schwach (weak) / bestimmter (definite) _the_
 Article / adjective ending.
 Case|♂|♀|⚲|∞
 ---|---|---|---|---
@@ -107,22 +115,23 @@ Akkusativ|den / -en|die / -e|das / -e|die / -en
 Dative|dem / -en|der / -en|dem / -en|den / -en
 Genitive|des / -en|der / -en|des / -en|der / -en
 
-## unbestimmter (indefinite) _a_
+## starke (strong)/ unbestimmter (indefinite) _a_
 Article / adjective ending.
 
 Case|♂|♀|⚲|∞
 ---|---|---|---|---
-Nominativ|ein / -er|eine / -e |ein / -es|- / -en
-Akkusativ|einen / -en|eine / -e |ein / -es|- / -en
-Dative|einem / -en|einer / -en |einem / -en|- / -en
-Genitive|eines / -en|einer / -en |eines / -en|- / -en
+Nominativ|ein / -er|eine / -e |ein / -es|-
+Akkusativ|einen / -en|eine / -e |ein / -es|-
+Dative|einem / -en|einer / -en |einem / -en|-
+Genitive|eines / -en|einer / -en |eines / -en|-
 
 ##  (negative) _not_
+Negator / adjective ending.
 
 Case|♂|♀|⚲|∞
 ---|---|---|---|---
-Nominativ|kein|keine|kein|keine
-Akkusativ|keinen|keine|kein|keine
+Nominativ|kein / -er|keine / -e|kein / -es|keine / -en
+Akkusativ|keinen / -en|keine / -e|kein / -es|keine / -en
 Dative|keinem|keiner|keinem|keinen
 Genitive|keines|keiner|keines|keiner
 
