@@ -77,25 +77,25 @@ Genitive <sup>1</sup>|
 
 ## Possessivpronomen (possessive pronouns)
 
-Case|Geschlecht|ich|du|er/sie/es|wir|ihr|sie/Sie
----|---|---|---|---|---|---|---
-|||my|your|his/hers/its|our|your|their/formal
-Nominativ|♂/⚲|mein|dein|sein/ihr/sein|unser|euer|ihr/Ihr
-||♀/∞|meine|deine|seine|unsere|eure|ihre
-Akkusativ|♂|meinen|deinen|seinen|unseren|euren|ihren
-||⚲|mein|dein|sein|unser|euer|ihr
-||♀/∞|meine|deine|seine|unsere|eure|ihre
+Case|Geschlecht|ich|du|er|sie|es|wir|ihr|sie/Sie
+---|---|---|---|---|---|---|---|---|---
+|||my|your|his|hers|its|our|your|their/formal
+Nominativ|♂/⚲|mein|dein|sein|ihr|sein|unser|euer|ihr|Ihr
+||♀/∞|meine|deine|seine|ihre|seine|unsere|eure|ihre
+Akkusativ|♂|meinen|deinen|seinen|ihren|seinen|unseren|euren|ihren
+||⚲|mein|dein|sein|ihr|sein|unser|euer|ihr
+||♀/∞|meine|deine|seine|ihre|seine|unsere|eure|ihre
 Dative|♂/⚲|meinem|deinem|seinem|unserem|eurem|ihrem
-||♀|meiner|deiner|seiner|unserer|eurer|ihrer
-||∞|meinen|deinen|seinen|unseren|euren|ihren
-Genitive|♂/⚲|meines|deines|seines|unseres|eures|ihres
-||♀/∞|meiner|deiner|seiner|unserer|eurer|ihrer
+||♀|meiner|deiner|seiner|||unserer|eurer|ihrer
+||∞|meinen|deinen|seinen|||unseren|euren|ihren
+Genitive|♂/⚲|meines|deines|seines|||unseres|eures|ihres
+||♀/∞|meiner|deiner|seiner|||unserer|eurer|ihrer
 
 ### Adjective endings
 Case|♂|♀|⚲|∞
 ---|---|---|---|---
 Nominativ|-er|-e|-es|-en
-Akkusativ||||
+Akkusativ|-er|-e|-es|-en
 Dative||||
 Genitive||||
 
