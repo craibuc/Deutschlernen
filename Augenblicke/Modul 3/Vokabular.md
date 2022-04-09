@@ -48,12 +48,12 @@ nie|never
 oft|often
 selten|seldom
 
-- Manchmal esse ich zwei Schnitzel, aber nie esse ich drei.
-Sometimes I eat two Schnitzels, but I never eat three.
-- Vormittags gehe ich in die Schule, aber abends bin ich zu Hause.
-In the morning I go to school, but in the evening I am at home.
-- Heute ist ein schlechter Tag, aber morgen kann es nur besser sein.
-Today is a bad day, but tomorrow it can only be better.
+- **Manchmal** esse ich zwei Schnitzel, aber **nie** esse ich drei.
+_Sometimes I eat two Schnitzels, but I never eat three._
+- **Vormittags** gehe ich in die Schule, aber **abends** bin ich zu Hause.
+_In the morning I go to school, but in the evening I am at home._
+- **Heute** ist ein schlechter Tag, aber **morgen** kann es nur besser sein.
+_Today is a bad day, but tomorrow it can only be better._
 
 References:
 
