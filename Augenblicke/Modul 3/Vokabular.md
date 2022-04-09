@@ -33,36 +33,44 @@ oft|often
 selten|seldom
 
 ## Nomen
+
+Symbol|Geschlecht
+---|---
+♂|maskulin
+♀|feminin
+⚲|neutrum
+∞|plural
+
 Deutsch|Wortart|English
 ---|---|---
-Angebote|n|deal;offer
-Beruf|m|job
-Ernährung|f|nutrition;diet
-Erwartung(-en)|f|expectation
-Essgewohnheiten|pl|eating habits
-Fette|f|fats
-Fleisch|n|meat
-Frühstück|n|breakfast
-Geld||money
-Gemüse|n|vegetables
-Getränke||drinks
-Getreideprodukte||
-Lebensmittel|n|food
-Meinungen|f|opinion
-Mensch(-en)|m|person
-Milch|f|milk
-Mittagessen||lunch
-Abendessen||dinner
-Nachtisch||dessert
-Öle||oils
-Obst|n|fruit
-Preis|m|price
-Qualität|f|quality
-Wörterbuch|n|dictionary
-Zuhause|n|home
-Münzen||coins
-Scheine||bills
-Umschlag||envelop
+Angebote|⚲|deal;offer
+Beruf|♂|job
+Ernährung|♀|nutrition;diet
+Erwartung(en)|♀|expectation
+Essgewohnheiten|∞|eating habits
+Fette|♀|fats
+Fleisch|⚲|meat
+Frühstück|⚲|breakfast
+Geld|⚲|money
+Gemüse|⚲|vegetables
+Getränk(e)|⚲|drink
+Getreide|⚲|grain;cereal
+Lebensmittel|⚲|food
+Meinungen|♀|opinion
+Mensch(-en)|♂|person
+Milch|♀|milk
+Mittagessen|⚲|lunch
+Abendessen|⚲|dinner
+Nachtisch|♂|dessert
+Öl(e)|⚲|oil
+Obst|⚲|fruit
+Preis|♂|price
+Qualität|♀|quality
+Wörterbuch|⚲|dictionary
+Zuhause|⚲|home
+Münze(-n)|♀|coin
+Schein(-e)|♂|bill
+Umschlag|♂|envelop
 
 ## Prepositions
 
