@@ -36,9 +36,9 @@ Examples:
 
 Examples:
 
-- Sie hat `einen` Traum.
-- `Der` Student sucht `den` Hörsaal.
-- `Die` Professorin fragt `eine` Studentin.
+- Sie hat `einen` Traum.  _She has a dream_
+- `Der` Student sucht `den` Hörsaal.  _The student is looking for the lecture hall._
+- `Die` Professorin fragt `eine` Studentin.  _The professor asks a student._
 
 ### der Dativ
 todo
@@ -75,6 +75,10 @@ Genitive <sup>1</sup>|
 
 <sup>1</sup> archaic
 
+- Katja, ich möchte dich sehen. _Katja, I would like to see you._
+- Darf ich euch besuchen?  _May I visit you guys?_
+- Wo ist mein Vater? Ich sehe ihn nicht.  _Where is my father? I don't see him._
+
 ## Possessivpronomen (possessive pronouns)
 
 Case|Geschlecht|ich|du|er|sie|es|wir|ihr|sie/Sie
@@ -85,7 +89,7 @@ Nominativ|♂/⚲|mein|dein|sein|ihr|sein|unser|euer|ihr|Ihr
 Akkusativ|♂|meinen|deinen|seinen|ihren|seinen|unseren|euren|ihren
 ||⚲|mein|dein|sein|ihr|sein|unser|euer|ihr
 ||♀/∞|meine|deine|seine|ihre|seine|unsere|eure|ihre
-Dative|♂/⚲|meinem|deinem|seinem|unserem|eurem|ihrem
+Dative|♂/⚲|meinem|deinem|seinem|||unserem|eurem|ihrem
 ||♀|meiner|deiner|seiner|||unserer|eurer|ihrer
 ||∞|meinen|deinen|seinen|||unseren|euren|ihren
 Genitive|♂/⚲|meines|deines|seines|||unseres|eures|ihres
@@ -95,9 +99,9 @@ Genitive|♂/⚲|meines|deines|seines|||unseres|eures|ihres
 Case|♂|♀|⚲|∞
 ---|---|---|---|---
 Nominativ|-er|-e|-es|-en
-Akkusativ|-er|-e|-es|-en
-Dative||||
-Genitive||||
+Akkusativ|-en|-e|-es|-en
+Dative|-en|-en|-en|-en
+Genitive|-en|-en|-en|-en
 
 ### Examples
 
@@ -132,8 +136,8 @@ Case|♂|♀|⚲|∞
 ---|---|---|---|---
 Nominativ|kein / -er|keine / -e|kein / -es|keine / -en
 Akkusativ|keinen / -en|keine / -e|kein / -es|keine / -en
-Dative|keinem|keiner|keinem|keinen
-Genitive|keines|keiner|keines|keiner
+Dative|keinem / -en|keiner / -en|keinem / -en|keinen / -en
+Genitive|keines / -en|keiner / -en|keines / -en|keiner / -en
 
 ## strong (without an article)
 
@@ -146,7 +150,7 @@ Genitive|-en|-er|-en|-er
 
 ## Predicate adjective
 
-Case|Maskulin (s)|Feminin (s)|Neutrum (s)|Plural
+Case|♂|♀|⚲|∞
 ---|---|---|---|---
 Nominativ|-e|-e|-e|-en
 
@@ -158,3 +162,4 @@ Nominativ|-e|-e|-e|-en
 - [German Adjective Endings: Nominative, Accusative, and Dative Cases](https://www.thoughtco.com/german-adjective-endings-nominative-case-4070890)
 - [German Adjective Endings: The Complete Guide](https://www.fluentin3months.com/german-adjective-endings/)
 - [German declension](https://www.germanveryeasy.com/german-declension)
+- [Complete Declension Tables](http://germanforenglishspeakers.com/reference/complete-declension-tables/)
