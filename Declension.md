@@ -119,7 +119,10 @@ Akkusativ|den / -en|die / -e|das / -e|die / -en
 Dative|dem / -en|der / -en|dem / -en|den / -en
 Genitive|des / -en|der / -en|des / -en|der / -en
 
-R E S E [ray-se] N E S E [nay-se] M R M N [Mister Mann] S R S R [Senior Senior]
+    R E S E [ray-se] 
+    N E S E [nay-se] 
+    M R M N [Mister Mann] 
+    S R S R [Senior Senior]
 
 ## starke (strong)/ unbestimmter (indefinite) _a_
 Article / adjective ending.
