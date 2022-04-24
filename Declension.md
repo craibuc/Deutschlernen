@@ -81,19 +81,19 @@ Genitive <sup>1</sup>|
 
 ## Possessivpronomen (possessive pronouns)
 
-Case|Geschlecht|ich|du|er|sie|es|wir|ihr|sie/Sie
+Case|Geschlecht|ich|du|er|sie|es|wir|ihr|sie / Sie
 ---|---|---|---|---|---|---|---|---|---
-|||my|your|his|hers|its|our|your|their/formal
-Nominativ|♂/⚲|mein|dein|sein|ihr|sein|unser|euer|ihr|Ihr
+|||my|your|his|hers|its|our|your|their / formal
+Nominativ|♂/⚲|mein|dein|sein|ihr|sein|unser|euer|ihr / Ihr
 ||♀/∞|meine|deine|seine|ihre|seine|unsere|eure|ihre
 Akkusativ|♂|meinen|deinen|seinen|ihren|seinen|unseren|euren|ihren
 ||⚲|mein|dein|sein|ihr|sein|unser|euer|ihr
 ||♀/∞|meine|deine|seine|ihre|seine|unsere|eure|ihre
-Dative|♂/⚲|meinem|deinem|seinem|||unserem|eurem|ihrem
-||♀|meiner|deiner|seiner|||unserer|eurer|ihrer
-||∞|meinen|deinen|seinen|||unseren|euren|ihren
-Genitive|♂/⚲|meines|deines|seines|||unseres|eures|ihres
-||♀/∞|meiner|deiner|seiner|||unserer|eurer|ihrer
+Dative|♂/⚲|meinem|deinem|seinem|ihrem|seinem|unserem|eurem|ihrem
+||♀|meiner|deiner|seiner|ihrer|seiner|unserer|eurer|ihrer
+||∞|meinen|deinen|seinen|ihren|seinen|unseren|euren|ihren
+Genitive|♂/⚲|meines|deines|seines|ihres|seines|unseres|eures|ihres
+||♀/∞|meiner|deiner|seiner|ihrer|seiner|unserer|eurer|ihrer
 
 ### Adjective endings
 Case|♂|♀|⚲|∞
@@ -118,6 +118,8 @@ Nominativ|der / -e|die / -e|das / -e|die / -en
 Akkusativ|den / -en|die / -e|das / -e|die / -en
 Dative|dem / -en|der / -en|dem / -en|den / -en
 Genitive|des / -en|der / -en|des / -en|der / -en
+
+R E S E [ray-se] N E S E [nay-se] M R M N [Mister Mann] S R S R [Senior Senior]
 
 ## starke (strong)/ unbestimmter (indefinite) _a_
 Article / adjective ending.
